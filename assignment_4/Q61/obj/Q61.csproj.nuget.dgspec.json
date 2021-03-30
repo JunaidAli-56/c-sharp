@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Diljan Ali\\OneDrive\\Desktop\\assignment_4\\Q61\\Q61.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diljan Ali\\OneDrive\\Desktop\\assignment_4\\Q61\\Q61.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diljan Ali\\OneDrive\\Desktop\\assignment_4\\Q61\\Q61.csproj",
+        "projectName": "Q61",
+        "projectPath": "C:\\Users\\Diljan Ali\\OneDrive\\Desktop\\assignment_4\\Q61\\Q61.csproj",
+        "packagesPath": "C:\\Users\\Diljan Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diljan Ali\\OneDrive\\Desktop\\assignment_4\\Q61\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diljan Ali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

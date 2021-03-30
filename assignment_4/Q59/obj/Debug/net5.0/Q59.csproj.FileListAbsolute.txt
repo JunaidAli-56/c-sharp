@@ -1,0 +1,16 @@
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.csprojAssemblyReference.cache
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.AssemblyInfoInputs.cache
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.AssemblyInfo.cs
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.csproj.CoreCompileInputs.cache
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\Q59.exe
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\Q59.deps.json
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\Q59.runtimeconfig.json
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\Q59.runtimeconfig.dev.json
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\Q59.dll
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\ref\Q59.dll
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\bin\Debug\net5.0\Q59.pdb
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.dll
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\ref\Q59.dll
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.pdb
+C:\Users\Diljan Ali\OneDrive\Desktop\assignment_4\Q59\obj\Debug\net5.0\Q59.genruntimeconfig.cache
